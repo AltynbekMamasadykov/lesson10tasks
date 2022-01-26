@@ -35,6 +35,7 @@ public class Main {
             count++;
         }return count;
     }
+    //commit
 
     static String word(String str){
         String result = str.toUpperCase();
